@@ -1,0 +1,28 @@
+.header {
+    padding: 20px;
+    background-color: plum;
+    color : gold;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+* {
+    background-color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+li {
+    display: inline;
+    
+}
+#noahTitle {
+    position: relative;
+    left: 450px;
+    background-color: plum;
+    width: fit-content;
+}
+
+section {
+    padding-top: 200px;
+}
